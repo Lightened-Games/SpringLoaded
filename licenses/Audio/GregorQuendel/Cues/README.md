@@ -1,0 +1,1 @@
+﻿Cut from 'Free Crowd Cheering Sounds' by Gregor Quendel (https://opengameart.org/content/free-crowd-cheering-sounds, CC-BY 4.0) with ffmpeg: trims, fades, loudness normalisation, mono 44.1 kHz; CrowdGroan is clip 06 slowed to 0.72x and low-passed. Originals in ../FreeCrowdCheeringSounds.

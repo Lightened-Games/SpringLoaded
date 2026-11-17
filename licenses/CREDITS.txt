@@ -1,0 +1,9 @@
+On the Ropes - asset library (raw sources of everything the game ships)
+
+Original work, generated for this project (CC0): Models/Generated/OntheRopes, Textures/Generated/OntheRopes, Audio/Generated/OntheRopes.
+  The scripts that made them are in Scripts/ (generate_meshes.py + meshlib.py + gltf_writer.py, generate_textures.py, generate_audio.py).
+ambientCG (CC0, https://ambientcg.com): Textures/ambientCG/<set> - PaintedMetal010, PaintedMetal016, Metal056C, Metal041B, Rubber004, DiamondPlate008C, CorrugatedSteel007A, Leaking010A.
+Poly Haven (CC0, https://polyhaven.com): Textures/PolyHaven/<id> and Models/PolyHaven/<id> (15 props; SM_OTR_*.gltf are the merged copies made by Scripts/prep_props.py + merge_gltf.py).
+Kenney (CC0, https://kenney.nl): Particle Pack sprites, Impact Sounds, Sci-Fi Sounds, Interface Sounds, Music Jingles.
+Barlow Condensed by Jeremy Tribby (SIL Open Font License 1.1): Fonts/BarlowCondensed.
+No Fab, Epic, Megascans, Paragon, Mixamo or sample content. Licence texts in Licenses/.
